@@ -4,8 +4,8 @@
   Note taking app for writing and saving notes. Backend code added using Express.js to save and retrieve notes from JSON file. Deployed on Heroku.
   
   ## Table of Contents
-  - [Link to app](#link to app)
-  - [Starter Code](#starter code)
+  - [Link to app](#linktoapp)
+  - [Starter Code](#startercode)
   - [Questions](#questions)
 
   ## Link To App
